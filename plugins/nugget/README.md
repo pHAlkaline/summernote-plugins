@@ -1,7 +1,7 @@
 summernote-nugget
 =============
 
-Allow users to insert custom code nuggets into the WYSIWYG.
+Allow users to insert custom "nuggets" into the WYSIWYG.
 
 
 Installation
@@ -21,8 +21,9 @@ $('#summernote').summernote({
         ['insert', ['nugget']]
     ],
     template: {
-        list: [ // list of your template (without the .html extension)
+        list: [ // list of your nuggets
             '[[code nugget 1]]',
+            '[[code nugget 2]]',
             '[[code nugget 2]]'
         ]
     },

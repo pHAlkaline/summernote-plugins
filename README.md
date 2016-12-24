@@ -6,5 +6,5 @@ Some plugins for the [Summernote WYSIWYG](https://github.com/summernote/summerno
 Nugget
 -------------
 
-Allow users to insert custom code nuggets into the WYSIWYG.
+Allow users to insert custom "nuggets" into the WYSIWYG.
 
