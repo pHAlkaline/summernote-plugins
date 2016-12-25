@@ -20,7 +20,7 @@ $('#summernote').summernote({
     toolbar: [
         ['insert', ['nugget']]
     ],
-    template: {
+    nugget: {
         list: [ // list of your nuggets
             '[[code nugget 1]]',
             '[[code nugget 2]]',
