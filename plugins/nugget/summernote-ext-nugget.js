@@ -113,7 +113,7 @@
                 var button = ui.buttonGroup([
                     ui.button({
                         className: 'dropdown-toggle',
-                        contents: '<span class="nugget"> ' + options.label + '</span><span class="note-icon-caret"></span>',
+                        contents: '<span class="nugget">' + options.label + ' </span><span class="note-icon-caret"></span>',
                         tooltip: options.tooltip,
                         data: {
                             toggle: 'dropdown'
